@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiesenRoznek
 - 👀 I’m interested in simulation
-- 🌱 I’m currently learning chemical engineering
+- 🌱 I’m a chemical engineering from the National University of Colombia
 - 💞️ I’m looking to collaborate on scientific research
 - 📫 How to reach me: cbracamonteg@unal.edu.co or cesarbraca@hotmail.com  
 
